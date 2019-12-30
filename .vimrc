@@ -5,3 +5,5 @@ set nu rnu
 filetype plugin indent on
 let g:netrw_bufsettings = 'noma nomod nu rnu nowrap ro nobl'
 nnoremap <silent> ,<space> :Explore<CR>
+set clipboard=unnamedplus
+set encoding=utf-8
