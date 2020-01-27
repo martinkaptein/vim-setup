@@ -1,4 +1,6 @@
 set background=dark
+set ignorecase
+set smartcase
 syntax on 
 colorscheme gruvbox
 set relativenumber 
